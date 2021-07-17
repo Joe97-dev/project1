@@ -1,2 +1,1 @@
-# project1
-First project
+Omdena Text Analysis
